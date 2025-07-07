@@ -1,2 +1,3 @@
-# rust-trade
-Trading / matching engine in Rust
+# Trading Engine
+
+Buiding a beginner friendly matching engine using Rust.
